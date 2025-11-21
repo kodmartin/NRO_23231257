@@ -1,2 +1,2 @@
-# NRO_23231257
-Repozitorij za domaco nalogo
+# NRO_DN_2
+Repozitorij za drugo domačo nalogo
